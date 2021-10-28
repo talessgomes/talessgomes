@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently study analysis and systems development
 - 🌱 I’m currently learning front-end
-- 📫 How to reach me: tales.gomes_sl@hotmail.com
 
 <div>
   <a href="https://github.com/talessgomes"/>
