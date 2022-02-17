@@ -14,10 +14,10 @@
   <img aling="center" alt="Tales-HTML" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img aling="center" alt="Tales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img aling="center" alt="Tales-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img aling="center" alt="Tales-Sql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"/>
+  <img aling="center" alt="Tales-Sql" height="40" width="40" src="![image](https://user-images.githubusercontent.com/78940689/154490531-633aba85-ea89-4731-842c-e33bc008dde5.png)"/>
 </div>
 
-##
+
 
 <div>
   <a href = "mailto:tales.gomes_sl@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
