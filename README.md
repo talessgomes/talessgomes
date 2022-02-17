@@ -14,6 +14,7 @@
   <img aling="center" alt="Tales-HTML" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img aling="center" alt="Tales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img aling="center" alt="Tales-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img aling="center" alt="Tales-Sql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg"/>
 </div>
 
 ##
