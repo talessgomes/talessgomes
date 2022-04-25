@@ -1,7 +1,7 @@
 ### Hi there! I'm Tales Gomes
 
 - 🔭 I’m currently study analysis and systems development
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning front-end and back-end
 
 <div>
   <a href="https://github.com/talessgomes"/>
